@@ -1,9 +1,3 @@
-Absolutely. Here’s the full README.md file you can copy and paste directly into ~/GitHub/dog-name-finder/README.md:
-
-⸻
-
-✅ README.md (ready to paste)
-
 # 🐶 Dog Name Finder
 
 **Find the perfect dog name in seconds — sorted by breed, personality, and style.**  
